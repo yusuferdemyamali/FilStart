@@ -9,6 +9,17 @@
 
 This project was born from the need to accelerate the initial setup and development phases of a project, allowing developers to focus on building unique features instead of repetitive boilerplate code. By leveraging a sophisticated system of prompts and context-aware scripts, FilStart automates common development tasks, from code generation to quality audits.
 
+![Login Screen](login_screen.png)
+![Forgot Password Screen](forgot_pass.png)
+![Dashboard](dashboard.png)
+![Media Manager](media.png)
+![Products](product.png)
+![Blog List](bloglist.png)
+![Blog Create](blogcreate.png)
+![Site Settings](settings.png)
+
+
+
 ### Key Features
 
 *   **Solid Foundation**: Built on the latest versions of Laravel and Filament, providing a modern, stable, and elegant starting point.
