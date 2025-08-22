@@ -149,9 +149,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` file for more information. (Note: A `LICENSE` file should be added to the repository).
 
 ## 📧 Contact
 
